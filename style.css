@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 1px;
+}
+.header{
+
+}
+.message{
+    text-align: center;
+    background-color: rgb(19, 160, 160);
+    padding: 8px;
+}
+.message h1{
+    border-radius: 90px;
+    
+    background-color: yellow;
+    font-size: 37px;
+    padding: 10px;
+}
+
+.message h2{
+    color: white;
+}
+.message span{
+    color: yellow;
+}
+
+#h30{
+    background-color: teal;
+}
+#h32{
+    background-color:  teal;
+}
+#h33{
+    background-color: teal;
+}
+#warning{
+    text-align: center;
+}
+.dosdont{
+    display: flex;
+    background-color: cadetblue;
+}
